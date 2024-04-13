@@ -1,6 +1,3 @@
-# ------------------------------------[UPDATE]--------------------------------------
-# Title: PiHole Block List - Online Games
-# ------------------------------------[FILTERS]-------------------------------------
 api.roblox.com
 www.roblox.com
 ephemeralcounters.api.roblox.com
